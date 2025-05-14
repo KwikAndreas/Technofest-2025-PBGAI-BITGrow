@@ -1,6 +1,5 @@
 # Ignored Folder
-/__pycache__/
-*.pyc
+/__pycache__/*
 /dataset/*
 /model/*
 /tm/*
