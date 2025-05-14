@@ -1,6 +1,6 @@
 # Ignored Folder
-/_pycache_/custom_load.cpython-312.pyc
-/_pycache_/model_adapter.cpython-312.pyc
+/__pycache__/custom_load.cpython-312.pyc
+/__pycache__/model_adapter.cpython-312.pyc
 /dataset/test/
 /dataset/train/
 /model/

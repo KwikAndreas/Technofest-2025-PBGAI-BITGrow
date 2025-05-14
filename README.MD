@@ -151,7 +151,7 @@ Model dari [Teachable Machine](https://teachablemachine.withgoogle.com/) memerlu
 
 Script `track_waste.py` telah diperbarui untuk:
 
-1. Mendeteksi model Teachable Machine secara otomatis
+1. Mendeteksi model secara otomatis
 2. Menerapkan preprocessing yang sesuai (normalisasi `[-1, 1]`)
 3. Membaca label kelas dari `labels.txt` atau `metadata.json` jika tersedia
 4. Menyesuaikan ukuran input sesuai kebutuhan model
