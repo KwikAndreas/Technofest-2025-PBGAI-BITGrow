@@ -1,5 +1,14 @@
-dataset/
-model/
-temp_saved_model/
-tm/
-waste_env/
+# Ignored Folder
+/_pycache_/custom_load.cpython-312.pyc
+/_pycache_/model_adapter.cpython-312.pyc
+/dataset/test/
+/dataset/train/
+/model/
+/tm/
+/waste_env/
+
+# Ignored Files
+tm_model_trainer.py
+alternative_image_loader.py
+custom_load.py
+debug_camera.py
