@@ -1,0 +1,5 @@
+dataset/
+model/
+temp_saved_model/
+tm/
+waste_env/
